@@ -36,3 +36,6 @@ Practicum Data Analyst Projects
 - Библиотеки: pandas, numpy, matplotlib
 - Статистический анализ: scipy, statsmodels
 - Методологии: воронки событий, A/B-тестирование
+
+**Проект Агентсво недвижимости**
+Дашборд реализован в DanaLens https://datalens.yandex/s7433byq2tgke
