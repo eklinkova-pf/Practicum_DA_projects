@@ -37,6 +37,6 @@ Practicum Data Analyst Projects
 - Статистический анализ: scipy, statsmodels
 - Методологии: воронки событий, A/B-тестирование
 
-**3) Анализ данных для агенства недвижимости**
+**3) Анализ данных для агенства недвижимости (Real_Estate_Agency.sql)**
 
 - Дашборд реализован в DanaLens и размещен по ссылке https://datalens.yandex/s7433byq2tgke
