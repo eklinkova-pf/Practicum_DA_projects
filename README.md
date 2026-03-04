@@ -1,7 +1,7 @@
 # Practicum_DA_projects
 Practicum Data Analyst Projects
 
-**Project_Marketplace.ipynb**
+**1) Анализ и оптимизация марект плейса (Project_Marketplace.ipynb)**
 - Задачи:
   - Анализ загруженных данных (EDA)
   - Комплексный анализ метрик и юнит-экономики
@@ -21,7 +21,7 @@ Practicum Data Analyst Projects
 - Статистический анализ: scipy, statsmodels
 - Методологии: воронки событий, A/B-тестирование
 
-**Project_FinTech.ipynb**
+**2) Анализ эффективности образовательного контента для платформы оглайн-торговли финансовыми активами (Project_FinTech.ipynb)**
 - Задачи:
   - Проверка гипотезы о влиянии дополнительного обучения на прибыльность
   - Анализ пользовательского поведения
@@ -37,6 +37,6 @@ Practicum Data Analyst Projects
 - Статистический анализ: scipy, statsmodels
 - Методологии: воронки событий, A/B-тестирование
 
-**Проект Агентсво недвижимости**
+**3) Анализ данных для агенства недвижимости**
 
-- Дашборд реализован в DanaLens https://datalens.yandex/s7433byq2tgke
+- Дашборд реализован в DanaLens и размещен по ссылке https://datalens.yandex/s7433byq2tgke
