@@ -38,4 +38,5 @@ Practicum Data Analyst Projects
 - Методологии: воронки событий, A/B-тестирование
 
 **Проект Агентсво недвижимости**
-Дашборд реализован в DanaLens https://datalens.yandex/s7433byq2tgke
+
+- Дашборд реализован в DanaLens https://datalens.yandex/s7433byq2tgke
